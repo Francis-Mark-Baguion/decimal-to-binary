@@ -17,7 +17,7 @@ int main()
     return 0;
 }
 
-long binary (dec)
+// function body
 {
     long bin=0, r, f=1;
     while (dec!=0)
