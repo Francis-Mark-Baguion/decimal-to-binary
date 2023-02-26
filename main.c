@@ -2,7 +2,7 @@
 
 int main();
 {
-	printf("I love you dae");
+	printf("pakyu");
 }
 
 
